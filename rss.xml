@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Little Sages Books ]]></title>
+        <description><![CDATA[Little Sages Books ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 17 Jun 2016 17:46:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The cruelest lies are often told in silence. -RLS]]></title>
+            <description><![CDATA[<p>The cruelest lies are often told in silence.</p>]]></description>
+            <link>undefinedthe-cruelest-lies-are-often-told-in-silence-rls/index.html</link>
+            <guid isPermaLink="false">6d84d6ca-3a42-4b78-bd65-25096687baa3</guid>
+            <pubDate>Fri, 17 Jun 2016 17:46:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
